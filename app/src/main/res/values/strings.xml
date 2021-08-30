@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="strCero">0</string>
+    <string name="strUno">1</string>
+    <string name="strDos">2</string>
+    <string name="strTres">3</string>
+    <string name="strCuatro">4</string>
+    <string name="strCinco">5</string>
+    <string name="strSeis">6</string>
+    <string name="strSiete">7</string>
+    <string name="strOcho">8</string>
+    <string name="strNueve">9</string>
+    <string name="strIgual">=</string>
+    <string name="strPor">x</string>
+    <string name="strMas">+</string>
+    <string name="strMenos">-</string>
+    <string name="strEntre">÷</string>
+    <string name="strClear">C</string>
+    <color name="cyan">#00FFFF</color>
+
+</resources>
